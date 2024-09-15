@@ -1,0 +1,21 @@
+body
+{
+background-color:#d8bfd8; 
+}
+table, th, td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family:Lucida Sans;
+  text-align:center;
+  margin: 0 auto;
+}
+h1
+{
+  color: #cea2fd;
+  font-family: "Georgia", Georgia , serif; 
+  text-align: center; 
+  border: 2px solid rgb(106, 5, 117);
+  background-color:#151b54;
+}
+
